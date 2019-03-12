@@ -1,0 +1,1 @@
+# Doom Aseprite Palette
